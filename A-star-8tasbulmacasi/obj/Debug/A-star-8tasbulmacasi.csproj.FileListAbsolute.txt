@@ -1,0 +1,12 @@
+C:\Users\Zeynep\c# project\A-star-8tasbulmacasi\A-star-8tasbulmacasi\bin\Debug\A-star-8tasbulmacasi.exe.config
+C:\Users\Zeynep\c# project\A-star-8tasbulmacasi\A-star-8tasbulmacasi\bin\Debug\A-star-8tasbulmacasi.exe
+C:\Users\Zeynep\c# project\A-star-8tasbulmacasi\A-star-8tasbulmacasi\bin\Debug\A-star-8tasbulmacasi.pdb
+C:\Users\Zeynep\c# project\A-star-8tasbulmacasi\A-star-8tasbulmacasi\obj\Debug\A-star-8tasbulmacasi.csproj.AssemblyReference.cache
+C:\Users\Zeynep\c# project\A-star-8tasbulmacasi\A-star-8tasbulmacasi\obj\Debug\A-star-8tasbulmacasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeynep\c# project\A-star-8tasbulmacasi\A-star-8tasbulmacasi\obj\Debug\A_star_8tasbulmacasi.Form1.resources
+C:\Users\Zeynep\c# project\A-star-8tasbulmacasi\A-star-8tasbulmacasi\obj\Debug\A_star_8tasbulmacasi.Properties.Resources.resources
+C:\Users\Zeynep\c# project\A-star-8tasbulmacasi\A-star-8tasbulmacasi\obj\Debug\A-star-8tasbulmacasi.csproj.GenerateResource.cache
+C:\Users\Zeynep\c# project\A-star-8tasbulmacasi\A-star-8tasbulmacasi\obj\Debug\A-star-8tasbulmacasi.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\c# project\A-star-8tasbulmacasi\A-star-8tasbulmacasi\obj\Debug\A-star-8tasbulmacasi.exe
+C:\Users\Zeynep\c# project\A-star-8tasbulmacasi\A-star-8tasbulmacasi\obj\Debug\A-star-8tasbulmacasi.pdb
+C:\Users\Zeynep\c# project\A-star-8tasbulmacasi\A-star-8tasbulmacasi\obj\Debug\A_star_8tasbulmacasi.hedefmatrisform.resources
